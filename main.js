@@ -197,7 +197,7 @@ const dark = {
         <p>${item.text}</p>
       </label>
       <img
-        src="assets/img/equisdede.png"
+        src="equisdede.png"
         class="icon-cross"
         alt="cross"
       />`;
